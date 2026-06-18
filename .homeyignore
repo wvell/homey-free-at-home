@@ -1,0 +1,6 @@
+# Dev-only content — keep it out of the published app package.
+test/
+.claude/
+.github/
+.vscode/
+.fah.env

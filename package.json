@@ -1,0 +1,11 @@
+{
+  "name": "com.wvell.freeathome",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}

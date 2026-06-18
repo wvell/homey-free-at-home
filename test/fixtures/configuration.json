@@ -1,0 +1,2576 @@
+{
+  "00000000-0000-0000-0000-000000000000": {
+    "sysapName": "DEMO-SYSAP",
+    "devices": {
+      "ABB700D45D5F": {
+        "displayName": "Demo device 1",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 2",
+            "room": "08",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 3",
+            "room": "08",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "A000CD60FC52": {
+        "displayName": "Demo device 4",
+        "channels": {
+          "ch0000": {
+            "functionID": "5A",
+            "displayName": "Demo device 5",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1088,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 1089,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 1090,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 1091,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 1092,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 1093,
+                "value": ""
+              },
+              "idp0006": {
+                "pairingID": 1094,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 1095,
+                "value": ""
+              },
+              "idp0008": {
+                "pairingID": 1127,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 1096,
+                "value": ""
+              },
+              "idp000a": {
+                "pairingID": 1097,
+                "value": ""
+              },
+              "idp000b": {
+                "pairingID": 1098,
+                "value": ""
+              },
+              "idp000c": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1120,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 1121,
+                "value": ""
+              },
+              "odp0002": {
+                "pairingID": 1124,
+                "value": "56"
+              },
+              "odp0003": {
+                "pairingID": 1122,
+                "value": "0"
+              },
+              "odp0004": {
+                "pairingID": 1123,
+                "value": "31"
+              },
+              "odp0005": {
+                "pairingID": 1128,
+                "value": "31"
+              },
+              "odp0006": {
+                "pairingID": 1125,
+                "value": "2"
+              },
+              "odp0007": {
+                "pairingID": 1126,
+                "value": "0"
+              },
+              "odp0008": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0009": {
+                "pairingID": 1129,
+                "value": ""
+              },
+              "odp000a": {
+                "pairingID": 1213,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "FFFF48010001": {
+        "displayName": "Demo device 6",
+        "channels": {
+          "ch0000": {
+            "functionID": "4801",
+            "displayName": "Demo device 7",
+            "room": "00",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0000": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "ABB700D46D9D": {
+        "displayName": "Demo device 8",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 9",
+            "room": "07",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "0",
+            "displayName": "Demo device 10",
+            "room": "07",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0006": {
+            "functionID": "7",
+            "displayName": "Demo device 11",
+            "room": "07",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          },
+          "ch0007": {
+            "functionID": "7",
+            "displayName": "Demo device 12",
+            "room": "07",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "A000AE58E855": {
+        "displayName": "Demo device 13",
+        "channels": {
+          "ch0000": {
+            "functionID": "5A",
+            "displayName": "Demo device 14",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1088,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 1089,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 1090,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 1091,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 1092,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 1093,
+                "value": ""
+              },
+              "idp0006": {
+                "pairingID": 1094,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 1095,
+                "value": ""
+              },
+              "idp0008": {
+                "pairingID": 1127,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 1096,
+                "value": ""
+              },
+              "idp000a": {
+                "pairingID": 1097,
+                "value": ""
+              },
+              "idp000b": {
+                "pairingID": 1098,
+                "value": ""
+              },
+              "idp000c": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1120,
+                "value": "2"
+              },
+              "odp0001": {
+                "pairingID": 1121,
+                "value": "Livestream NGK Groningen Oost, Mirakeldienst, 7 juni 2026 - NGK Groningen Oosterkerk"
+              },
+              "odp0002": {
+                "pairingID": 1124,
+                "value": "128"
+              },
+              "odp0003": {
+                "pairingID": 1122,
+                "value": "0"
+              },
+              "odp0004": {
+                "pairingID": 1123,
+                "value": "42"
+              },
+              "odp0005": {
+                "pairingID": 1128,
+                "value": "42"
+              },
+              "odp0006": {
+                "pairingID": 1125,
+                "value": "1"
+              },
+              "odp0007": {
+                "pairingID": 1126,
+                "value": "0"
+              },
+              "odp0008": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0009": {
+                "pairingID": 1129,
+                "value": "Airplay"
+              },
+              "odp000a": {
+                "pairingID": 1213,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "ABB700D2010C": {
+        "displayName": "Demo device 15",
+        "channels": {
+          "ch0000": {
+            "functionID": "1",
+            "displayName": "Demo device 16",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "1"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 272,
+                "value": "100"
+              },
+              "idp000a": {
+                "pairingID": 277,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "6",
+            "displayName": "Demo device 17",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0006": {
+            "functionID": "12",
+            "displayName": "Demo device 18",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0006": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0007": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "1"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "100"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF48000001": {
+        "displayName": "Demo device 19",
+        "channels": {
+          "ch0000": {
+            "functionID": "4800",
+            "displayName": "Demo device 20",
+            "room": "00",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0000": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "FFFF48000003": {
+        "displayName": "Demo device 21",
+        "channels": {
+          "ch0000": {
+            "functionID": "4800",
+            "displayName": "Demo device 22",
+            "room": "04",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0000": {
+                "pairingID": 4,
+                "value": "4"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D4BD6B": {
+        "displayName": "Demo device 23",
+        "channels": {
+          "ch0000": {
+            "functionID": "1",
+            "displayName": "Demo device 24",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "idp000a": {
+                "pairingID": 277,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "odp0001": {
+                "pairingID": 16,
+                "value": "8"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "12",
+            "displayName": "Demo device 25",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": "8"
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0006": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0007": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF48000002": {
+        "displayName": "Demo device 26",
+        "channels": {
+          "ch0000": {
+            "functionID": "4800",
+            "displayName": "Demo device 27",
+            "room": "04",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0000": {
+                "pairingID": 4,
+                "value": "3"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D46D97": {
+        "displayName": "Demo device 28",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 29",
+            "room": "05",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "0",
+            "displayName": "Demo device 30",
+            "room": "05",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0006": {
+            "functionID": "7",
+            "displayName": "Demo device 31",
+            "room": "05",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          },
+          "ch0007": {
+            "functionID": "7",
+            "displayName": "Demo device 32",
+            "room": "0C",
+            "floor": "03",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700000000": {
+        "displayName": "Demo device 33",
+        "channels": {
+          "ch0000": {
+            "functionID": "25",
+            "displayName": "Demo device 34",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 20,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 18,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D2C89C": {
+        "displayName": "Demo device 35",
+        "channels": {
+          "ch0000": {
+            "functionID": "6",
+            "displayName": "Demo device 36",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D61": {
+        "displayName": "Demo device 37",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 38",
+            "room": "06",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 39",
+            "room": "06",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF4A010001": {
+        "displayName": "Demo device 40",
+        "channels": {
+          "ch0000": {
+            "functionID": "4A01",
+            "displayName": "Demo device 41",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 61697,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 61698,
+                "value": "1"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D60": {
+        "displayName": "Demo device 42",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 43",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 44",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB2A0232E51": {
+        "displayName": "Demo device 45",
+        "channels": {
+          "ch0000": {
+            "functionID": "6",
+            "displayName": "Demo device 46",
+            "room": "00",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0008": {
+                "pairingID": 4,
+                "value": "0"
+              }
+            }
+          },
+          "ch0001": {
+            "functionID": "0",
+            "displayName": "ⓑ",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D63": {
+        "displayName": "Demo device 47",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 48",
+            "room": "02",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 49",
+            "room": "02",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF4A010003": {
+        "displayName": "Demo device 50",
+        "channels": {
+          "ch0000": {
+            "functionID": "4A01",
+            "displayName": "Demo device 51",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 61697,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 61698,
+                "value": "1"
+              }
+            }
+          }
+        }
+      },
+      "FFFF4A010002": {
+        "displayName": "Demo device 52",
+        "channels": {
+          "ch0000": {
+            "functionID": "4A01",
+            "displayName": "Demo device 53",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 61697,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 61698,
+                "value": "1"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D64": {
+        "displayName": "Demo device 54",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 55",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 56",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D67": {
+        "displayName": "Demo device 57",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 58",
+            "room": "09",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 59",
+            "room": "09",
+            "floor": "02",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D46D8A": {
+        "displayName": "Demo device 60",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 61",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "0",
+            "displayName": "Demo device 62",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0006": {
+            "functionID": "7",
+            "displayName": "Demo device 63",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          },
+          "ch0007": {
+            "functionID": "7",
+            "displayName": "Demo device 64",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D4BE32": {
+        "displayName": "Demo device 65",
+        "channels": {
+          "ch0000": {
+            "functionID": "1",
+            "displayName": "Demo device 66",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "idp000a": {
+                "pairingID": 277,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "odp0001": {
+                "pairingID": 16,
+                "value": "8"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "12",
+            "displayName": "Demo device 67",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": "8"
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0006": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0007": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "BEED7CB20001": {
+        "displayName": "Demo device 68",
+        "channels": {
+          "ch0000": {
+            "functionID": "40",
+            "displayName": "Demo device 69",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": "1"
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0006": {
+                "pairingID": 6,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 22,
+                "value": "23"
+              },
+              "idp0008": {
+                "pairingID": 26,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 428,
+                "value": "64.9606t+0"
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 280,
+                "value": "23"
+              },
+              "odp0004": {
+                "pairingID": 429,
+                "value": "0t+0"
+              }
+            }
+          }
+        }
+      },
+      "BEED7CB20003": {
+        "displayName": "Demo device 70",
+        "channels": {
+          "ch0000": {
+            "functionID": "40",
+            "displayName": "Demo device 71",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": "1"
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0006": {
+                "pairingID": 6,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 22,
+                "value": "23"
+              },
+              "idp0008": {
+                "pairingID": 26,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 428,
+                "value": "62.9921t+0"
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 280,
+                "value": "23"
+              },
+              "odp0004": {
+                "pairingID": 429,
+                "value": "0t+0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF4A000001": {
+        "displayName": "Demo device 72",
+        "channels": {
+          "ch0000": {
+            "functionID": "4A00",
+            "displayName": "Demo device 73",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 61697,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 4,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 61698,
+                "value": "1"
+              }
+            }
+          }
+        }
+      },
+      "BEED7CB20002": {
+        "displayName": "Demo device 74",
+        "channels": {
+          "ch0000": {
+            "functionID": "40",
+            "displayName": "Demo device 75",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": "1"
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0006": {
+                "pairingID": 6,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 22,
+                "value": "23"
+              },
+              "idp0008": {
+                "pairingID": 26,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 428,
+                "value": "31.8898t+0"
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 280,
+                "value": "23"
+              },
+              "odp0004": {
+                "pairingID": 429,
+                "value": "0t+0"
+              }
+            }
+          }
+        }
+      },
+      "FFFF48020001": {
+        "displayName": "Demo device 76",
+        "channels": {
+          "ch0000": {
+            "functionID": "4802",
+            "displayName": "Demo device 77",
+            "room": "00",
+            "floor": "01",
+            "inputs": {},
+            "outputs": {
+              "odp0000": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "BEED7CB20004": {
+        "displayName": "Demo device 78",
+        "channels": {
+          "ch0000": {
+            "functionID": "40",
+            "displayName": "Demo device 79",
+            "room": "03",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 16,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 17,
+                "value": "1"
+              },
+              "idp0003": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0006": {
+                "pairingID": 6,
+                "value": ""
+              },
+              "idp0007": {
+                "pairingID": 22,
+                "value": "23"
+              },
+              "idp0008": {
+                "pairingID": 26,
+                "value": ""
+              },
+              "idp0009": {
+                "pairingID": 428,
+                "value": "66.1417t+0"
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 272,
+                "value": "0"
+              },
+              "odp0002": {
+                "pairingID": 273,
+                "value": "0"
+              },
+              "odp0003": {
+                "pairingID": 280,
+                "value": "23"
+              },
+              "odp0004": {
+                "pairingID": 429,
+                "value": "0t+0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D4CC5B": {
+        "displayName": "Demo device 80",
+        "channels": {}
+      },
+      "ABB700D4AB2A": {
+        "displayName": "Demo device 81",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 82",
+            "room": "0C",
+            "floor": "03",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "1"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D5A": {
+        "displayName": "Demo device 83",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 84",
+            "room": "01",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 85",
+            "room": "01",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D42CE4": {
+        "displayName": "Demo device 86",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 87",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "0",
+            "displayName": "Demo device 88",
+            "room": "00",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          }
+        }
+      },
+      "ABB700D45D5D": {
+        "displayName": "Demo device 89",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 90",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "7",
+            "displayName": "Demo device 91",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": "4"
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D46D87": {
+        "displayName": "Demo device 92",
+        "channels": {
+          "ch0000": {
+            "functionID": "0",
+            "displayName": "Demo device 93",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0003": {
+            "functionID": "0",
+            "displayName": "Demo device 94",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 256,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 18,
+                "value": "0"
+              },
+              "idp0002": {
+                "pairingID": 273,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 261,
+                "value": ""
+              },
+              "idp0005": {
+                "pairingID": 278,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 1,
+                "value": "0"
+              },
+              "odp0006": {
+                "pairingID": 4,
+                "value": ""
+              }
+            }
+          },
+          "ch0006": {
+            "functionID": "7",
+            "displayName": "Demo device 95",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          },
+          "ch0007": {
+            "functionID": "7",
+            "displayName": "Demo device 96",
+            "room": "04",
+            "floor": "01",
+            "inputs": {
+              "idp0000": {
+                "pairingID": 1,
+                "value": ""
+              },
+              "idp0001": {
+                "pairingID": 2,
+                "value": ""
+              },
+              "idp0002": {
+                "pairingID": 3,
+                "value": ""
+              },
+              "idp0003": {
+                "pairingID": 4,
+                "value": ""
+              },
+              "idp0004": {
+                "pairingID": 6,
+                "value": ""
+              }
+            },
+            "outputs": {
+              "odp0000": {
+                "pairingID": 256,
+                "value": "0"
+              },
+              "odp0001": {
+                "pairingID": 257,
+                "value": "0"
+              }
+            }
+          }
+        }
+      },
+      "ABB700D4CC5C": {
+        "displayName": "Demo device 97",
+        "channels": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": { "en": "On/off light" },
+  "class": "light",
+  "capabilities": ["onoff"],
+  "platforms": ["local"],
+  "connectivity": ["lan"],
+  "images": {
+    "small": "/drivers/switch/assets/images/small.png",
+    "large": "/drivers/switch/assets/images/large.png"
+  },
+  "pair": [
+    { "id": "list_devices", "template": "list_devices", "navigation": { "next": "add_devices" } },
+    { "id": "add_devices", "template": "add_devices" }
+  ]
+}
