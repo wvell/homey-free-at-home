@@ -1,24 +1,39 @@
 {
   "id": "com.wvell.freeathome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "platforms": ["local"],
-  "name": { "en": "free@home Local" },
-  "description": { "en": "Switch and dim your free@home lights locally from Homey." },
-  "category": ["lights"],
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "free@home Local"
+  },
+  "description": {
+    "en": "Switch and dim your free@home lights locally from Homey."
+  },
+  "category": [
+    "lights"
+  ],
   "permissions": [],
   "brandColor": "#009BCE",
-  "author": { "name": "Wytse Vellema", "email": "w.vellema@slash2.nl" },
+  "author": {
+    "name": "Wytse Vellema",
+    "email": "w.vellema@slash2.nl"
+  },
   "contributors": {
     "developers": [
-      { "name": "Philip Gerke" }
+      {
+        "name": "Philip Gerke"
+      }
     ]
   },
   "support": "https://github.com/wvell/homey-free-at-home/issues",
   "source": "https://github.com/wvell/homey-free-at-home",
   "homepage": "https://github.com/wvell/homey-free-at-home",
-  "bugs": { "url": "https://github.com/wvell/homey-free-at-home/issues" },
+  "bugs": {
+    "url": "https://github.com/wvell/homey-free-at-home/issues"
+  },
   "images": {
     "small": "/assets/images/small.png",
     "large": "/assets/images/large.png"

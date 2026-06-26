@@ -1,5 +1,8 @@
 {
   "1.0.0": {
     "en": "Initial release: local control of free@home on/off lights and switches, and dimmers."
+  },
+  "1.0.1": {
+    "en": "Updated the description"
   }
 }
