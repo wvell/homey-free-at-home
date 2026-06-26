@@ -10,6 +10,11 @@
   "permissions": [],
   "brandColor": "#009BCE",
   "author": { "name": "Wytse Vellema", "email": "w.vellema@slash2.nl" },
+  "contributors": {
+    "developers": [
+      { "name": "Philip Gerke" }
+    ]
+  },
   "support": "https://github.com/wvell/homey-free-at-home/issues",
   "source": "https://github.com/wvell/homey-free-at-home",
   "homepage": "https://github.com/wvell/homey-free-at-home",
